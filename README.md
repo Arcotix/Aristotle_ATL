@@ -1,4 +1,4 @@
-![Welcome to Aristotle!](Aristotle-1.png)
+![](Aristotle-New.png)
 <p align = center>
   <b>Welcome to Aristotle!<b>
 
