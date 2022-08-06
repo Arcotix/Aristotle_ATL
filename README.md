@@ -6,5 +6,9 @@
  </p> 
     Aristotle™ is your personal, digital, intelligent study assistant to help you study smarter & more intuitively than route memorisation. 
     
+    
+    Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](Aristotle-New.png)  |  TestTestTestTestTestTestTESTESTEST
 
 
