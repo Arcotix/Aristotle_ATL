@@ -26,12 +26,13 @@
  <body> 
       
   <h1 align="center"> 🎥 How does it Work? </h1>
-   <video width="320" height="240" controls>
-     <source src="Arisotle-Demo.mp4" type="video/mp4">
-   </video>
-        
+  
  </body>
       
   </html>
+    
+  Heres a Small Demo Video showcasing Aristotle /-
+
+https://user-images.githubusercontent.com/110741779/183287280-7d9e3984-b38c-4842-88d2-a251aa8075ea.mp4
 
 
