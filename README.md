@@ -27,7 +27,7 @@
       
   <h1 align="center"> 🎥 How does it Work? </h1>
    <video width="320" height="240" controls>
-     <source src="Aristotle-Demo.mp4" type="video/mp4">
+     <source src="Arisotle-Demo.mp4" type="video/mp4">
    </video>
         
  </body>
