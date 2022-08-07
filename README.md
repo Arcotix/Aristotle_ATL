@@ -26,6 +26,9 @@
  <body> 
       
   <h1 align="center"> 🎥 How does it Work? </h1>
+   <video width="320" height="240" controls>
+     
+   </video>
         
  </body>
       
