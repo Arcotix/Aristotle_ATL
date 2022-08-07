@@ -10,9 +10,25 @@
     
 <html>
   <body>
-    <h1> Woah ✨ What can it do? </h1>
+    <h1 align="center"> Woah ✨ What can it do? </h1>
+    <p align="center"> Aristotle is jam-packed with many features to aid students and curious minds alike in their learning journey. Some included features are :- </p>
   </body>
  </html>
-
+    
+    [-] Doubt / Question Answering
+    
+    [-] Test / Self Evaluation (Coming soon!)
+    
+    [-] Study Routine and Timetable manager (Coming soon!)
+    
+<html>
+    
+ <body> 
+      
+  <h1 align="center"> 🎥 How does it Work? </h1>
+        
+ </body>
+      
+  </html>
 
 
