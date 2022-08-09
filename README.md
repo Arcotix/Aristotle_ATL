@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/110741779/183287280-7d9e3984-b38c-4842
       
 </html>
     
-   
+
  ```bash
     # Arch Linux Installation, Assuming your AUR Helper is "Yay"
     yay -S gum kitty alacritty python figlet lolcat
@@ -78,3 +78,21 @@ https://user-images.githubusercontent.com/110741779/183287280-7d9e3984-b38c-4842
 
 
 
+<html>
+    
+ <body> 
+   
+  <h1 align="center"> Credits 🪙</h1>
+    
+ </body>
+      
+</html>
+    
+```
+[-] Smayan :- ( ͡° ͜ʖ ͡°) 
+[-] Aatmik :- Literally the only other person who was actually interested and invested in this project
+[-] Anishka :- Same energy as the guy on xbox live who was last online 15 years ago
+[-] Paarth :- I forgort he was even in this group tbh
+[-] Rhythm :- 7 years ago, she went out to get some milk, she still hasnt returned (the store is far away)
+[-] Raavee :- I can't tell if its spelled "Raavee" or "Ravi"
+```
