@@ -1,0 +1,168 @@
+1659789460156	geckodriver	INFO	Listening on 127.0.0.1:60333
+1659789460245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilek4FRiM"
+
+(firefox:663167): Gtk-WARNING **: 18:07:40.548: Theme parsing error: gtk.css:22796:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:40.549: Theme parsing error: gtk.css:23578:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:40.549: Theme parsing error: gtk.css:23584:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:40.551: Theme parsing error: gtk.css:24179:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:40.551: Theme parsing error: gtk.css:24185:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:40.551: Theme parsing error: gtk.css:24191:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:40.551: Theme parsing error: gtk.css:24197:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:40.551: Theme parsing error: gtk.css:24203:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:40.551: Theme parsing error: gtk.css:24209:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:40.551: Theme parsing error: gtk.css:24215:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:40.551: Theme parsing error: gtk.css:24221:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.148: Theme parsing error: gtk.css:22796:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.150: Theme parsing error: gtk.css:23578:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.150: Theme parsing error: gtk.css:23584:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.151: Theme parsing error: gtk.css:24179:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.151: Theme parsing error: gtk.css:24185:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.151: Theme parsing error: gtk.css:24191:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.151: Theme parsing error: gtk.css:24197:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.151: Theme parsing error: gtk.css:24203:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.151: Theme parsing error: gtk.css:24209:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.151: Theme parsing error: gtk.css:24215:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.151: Theme parsing error: gtk.css:24221:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.316: Theme parsing error: gtk.css:22796:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.318: Theme parsing error: gtk.css:23578:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.318: Theme parsing error: gtk.css:23584:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.320: Theme parsing error: gtk.css:24179:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.320: Theme parsing error: gtk.css:24185:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.320: Theme parsing error: gtk.css:24191:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.320: Theme parsing error: gtk.css:24197:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.320: Theme parsing error: gtk.css:24203:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.320: Theme parsing error: gtk.css:24209:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.320: Theme parsing error: gtk.css:24215:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.320: Theme parsing error: gtk.css:24221:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.484: Theme parsing error: gtk.css:22796:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.486: Theme parsing error: gtk.css:23578:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.486: Theme parsing error: gtk.css:23584:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.488: Theme parsing error: gtk.css:24179:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.488: Theme parsing error: gtk.css:24185:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.488: Theme parsing error: gtk.css:24191:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.488: Theme parsing error: gtk.css:24197:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.488: Theme parsing error: gtk.css:24203:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.488: Theme parsing error: gtk.css:24209:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.488: Theme parsing error: gtk.css:24215:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.488: Theme parsing error: gtk.css:24221:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.650: Theme parsing error: gtk.css:22796:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.652: Theme parsing error: gtk.css:23578:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.652: Theme parsing error: gtk.css:23584:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.654: Theme parsing error: gtk.css:24179:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.654: Theme parsing error: gtk.css:24185:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.654: Theme parsing error: gtk.css:24191:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.654: Theme parsing error: gtk.css:24197:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.654: Theme parsing error: gtk.css:24203:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.654: Theme parsing error: gtk.css:24209:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.654: Theme parsing error: gtk.css:24215:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.654: Theme parsing error: gtk.css:24221:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.833: Theme parsing error: gtk.css:22796:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.834: Theme parsing error: gtk.css:23578:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.835: Theme parsing error: gtk.css:23584:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.836: Theme parsing error: gtk.css:24179:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.836: Theme parsing error: gtk.css:24185:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.836: Theme parsing error: gtk.css:24191:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.836: Theme parsing error: gtk.css:24197:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.836: Theme parsing error: gtk.css:24203:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.836: Theme parsing error: gtk.css:24209:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.836: Theme parsing error: gtk.css:24215:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:41.836: Theme parsing error: gtk.css:24221:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:42.001: Theme parsing error: gtk.css:22796:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:42.003: Theme parsing error: gtk.css:23578:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:42.003: Theme parsing error: gtk.css:23584:24: not a number
+
+(firefox:663167): Gtk-WARNING **: 18:07:42.005: Theme parsing error: gtk.css:24179:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:42.005: Theme parsing error: gtk.css:24185:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:42.005: Theme parsing error: gtk.css:24191:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:42.005: Theme parsing error: gtk.css:24197:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:42.005: Theme parsing error: gtk.css:24203:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:42.005: Theme parsing error: gtk.css:24209:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:42.005: Theme parsing error: gtk.css:24215:20: Not a valid image
+
+(firefox:663167): Gtk-WARNING **: 18:07:42.005: Theme parsing error: gtk.css:24221:20: Not a valid image
+1659789462395	Marionette	INFO	Marionette enabled
+1659789462401	Marionette	INFO	Listening on port 43445
+WebDriver BiDi listening on ws://localhost:51171
+Read port: 43445
+1659789462573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilek4FRiM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51171/devtools/browser/c0f667fe-82a5-4549-83f8-2f0788da1f03
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
