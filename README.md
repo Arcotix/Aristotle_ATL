@@ -72,7 +72,7 @@ https://user-images.githubusercontent.com/110741779/183287280-7d9e3984-b38c-4842
       
 </html>
 
-> You take the blue pill, the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in wonderland, and I show you how deep the rabbit hole goes.
+> **You take the blue pill, the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in wonderland, and I show you how deep the rabbit hole goes.**
     
  -- **Morpheus, 1999** (take a look at https://ubuntu.com/, https://linuxmint.com/, https://endeavouros.com/)
 
