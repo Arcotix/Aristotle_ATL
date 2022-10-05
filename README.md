@@ -34,12 +34,28 @@
   Heres a Small Demo Video showcasing Aristotle /-
 
 https://user-images.githubusercontent.com/110741779/183287280-7d9e3984-b38c-4842-88d2-a251aa8075ea.mp4
+    
+<html>
+    
+ <body> 
+      
+  <h1 align="center">  New!  </h1>
+  
+ </body>
+      
+  </html>
+    
+  You can now evaluate your progress with Aristotle! /-
+
+
+https://user-images.githubusercontent.com/110741779/194057286-d9800a76-a10e-47f7-8d56-182ca7683a32.mp4
+
 
 <html>
     
  <body> 
       
-  <h1 align="center"> Shut up and take my money! 💵 </h1>
+  <h1 align="center"> How do I Install?! 💵 </h1>
   <p align="center"> Aristotle is light weight, non-resource intensive & completly free and open source software, here are the steps to install Aristotle </p>
    
   <h2 align="center"> Linux Installation 🐧</h1>
@@ -62,18 +78,6 @@ https://user-images.githubusercontent.com/110741779/183287280-7d9e3984-b38c-4842
     ./main.sh
 ``` 
     
-<html>
-    
- <body> 
-   
-  <h2 align="center"> Windows Installation 🪟</h1>
-    
- </body>
-      
-</html>
 
-> **You take the blue pill, the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in wonderland, and I show you how deep the rabbit hole goes.**
-    
- -- **Morpheus, 1999** (take a look at https://ubuntu.com/, https://linuxmint.com/, https://endeavouros.com/)
 
 
