@@ -17,7 +17,7 @@
     
     [-] Doubt / Question Answering
     
-    [-] Test / Self Evaluation (Coming soon!)
+    [-] Test / Self Evaluation 
     
     [-] Study Routine and Timetable manager (Coming soon!)
     
